@@ -446,3 +446,8 @@ audio {
     top: 10vh; /* aquí lo subes */
   }
 }
+@media (min-width: 1024px) {
+  .center {
+    top: 55%; /* ajusta este valor */
+  }
+}
