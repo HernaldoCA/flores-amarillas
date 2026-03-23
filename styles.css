@@ -448,6 +448,6 @@ audio {
 }
 @media (min-width: 1024px) {
   .center {
-    top: 50%; /* ajusta este valor */
+    top: 100%; /* ajusta este valor */
   }
 }
